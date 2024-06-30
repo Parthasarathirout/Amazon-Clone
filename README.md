@@ -1,2 +1,2 @@
 # Amazon-Clone
-Creating Amazon clone using HTML,CSS,Javascript
+Creating Amazon Frontend clone using HTML,CSS,Javascript
